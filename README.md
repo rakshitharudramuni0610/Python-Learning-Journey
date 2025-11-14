@@ -1,0 +1,1 @@
+I'm currently beginning my Python learning journey and exploring the fundamentals of programming, problem-solving, and project building. I enjoy creating simple programs, learning new concepts every day, and growing my skills step by step as I work toward becoming a confident developer.

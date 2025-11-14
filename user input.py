@@ -1,0 +1,5 @@
+girl_name = input("Enter Girl Name: ")
+boy_name = input("Enter Boy Name: ")
+print( girl_name)
+print( boy_name)
+print(girl_name + " loves " + boy_name)
